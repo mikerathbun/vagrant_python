@@ -1,1 +1,0 @@
-{"virtualbox":{"/vagrant_dev":{"guestpath":"/vagrant_dev","hostpath":"/Users/mikerathbun/Documents/dev","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/mikerathbun/Documents/dev/vagrant/vagrant_python","disabled":false,"__vagrantfile":true}}}
